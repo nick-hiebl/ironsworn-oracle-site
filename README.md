@@ -1,0 +1,1 @@
+Check it out in the [pages link](https://nick-hiebl.github.io/ironsworn-oracle-site/).
